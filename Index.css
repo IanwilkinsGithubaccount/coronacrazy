@@ -26,3 +26,7 @@ Index.css
   background-color: #4CAF50;
   color: white;
 }
+.body {
+    background-image: url('hazmatsuit.jpg');
+    background-attachment: fixed;
+}
